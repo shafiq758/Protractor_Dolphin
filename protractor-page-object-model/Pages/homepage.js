@@ -1,0 +1,11 @@
+var testdata = require('../Testdata/data.json');
+class HomePage {
+    constructor() {
+
+      this.username= element(by.id(testdata.locators.loginpage.username1));
+      this.password= element(by.id(testdata.locators.loginpage.password1));
+	  this.Login= element(by.buttonText(testdata.locators.loginpage.login));
+    }
+
+}
+module.exports = new HomePage();

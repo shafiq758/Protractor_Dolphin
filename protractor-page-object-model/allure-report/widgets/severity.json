@@ -1,0 +1,21 @@
+[ {
+  "uid" : "78235ef33e53b9bf",
+  "name" : "Logout of Dolphin",
+  "time" : {
+    "start" : 1616847238768,
+    "stop" : 1616847242315,
+    "duration" : 3547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b7b5a4a9d76117a",
+  "name" : "Login to Dolphin",
+  "time" : {
+    "start" : 1616847216482,
+    "stop" : 1616847238768,
+    "duration" : 22286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
