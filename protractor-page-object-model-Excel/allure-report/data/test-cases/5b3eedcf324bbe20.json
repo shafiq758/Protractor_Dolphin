@@ -1,0 +1,60 @@
+{
+  "uid" : "5b3eedcf324bbe20",
+  "name" : "Logout of Dolphin",
+  "fullName" : "Login and Logout of Dolphin.Logout of Dolphin",
+  "historyId" : "f5b18b0e6a363a7817ca21202b24b4bc",
+  "time" : {
+    "start" : 1616847533710,
+    "stop" : 1616847535097,
+    "duration" : 1387
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7ac32909f7afaaab",
+      "name" : "Screenshot",
+      "source" : "7ac32909f7afaaab.png",
+      "type" : "image/png",
+      "size" : 36938
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Login and Logout of Dolphin"
+  }, {
+    "name" : "testClass",
+    "value" : "Login and Logout of Dolphin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout of Dolphin"
+  }, {
+    "name" : "package",
+    "value" : "Login and Logout of Dolphin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b3eedcf324bbe20.json",
+  "parameterValues" : [ ]
+}

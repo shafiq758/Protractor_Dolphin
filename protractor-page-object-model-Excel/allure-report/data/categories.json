@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: No element found using locator: By(css selector, *[id=\"loginsubmit\"])",
+      "children" : [ {
+        "name" : "Handling Tabs and Popups",
+        "uid" : "f794d94d5ea22650",
+        "parentUid" : "bfcee2e2e28d2a0814b03a238c851b0c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616847536687,
+          "stop" : 1616847628174,
+          "duration" : 91487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bfcee2e2e28d2a0814b03a238c851b0c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

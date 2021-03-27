@@ -1,0 +1,41 @@
+[ {
+  "uid" : "57fb54b34970c44c",
+  "name" : "Get Title",
+  "time" : {
+    "start" : 1616847528307,
+    "stop" : 1616847533220,
+    "duration" : 4913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52fb549a24b4326b",
+  "name" : "Login to Application",
+  "time" : {
+    "start" : 1616847535097,
+    "stop" : 1616847535514,
+    "duration" : 417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f794d94d5ea22650",
+  "name" : "Handling Tabs and Popups",
+  "time" : {
+    "start" : 1616847536687,
+    "stop" : 1616847628174,
+    "duration" : 91487
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea8b4a9da25d7452",
+  "name" : "Logout of Dolphin",
+  "time" : {
+    "start" : 1616847535515,
+    "stop" : 1616847536680,
+    "duration" : 1165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

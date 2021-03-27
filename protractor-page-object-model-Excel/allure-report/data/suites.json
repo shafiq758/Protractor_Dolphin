@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Login and Logout of Dolphin",
+    "children" : [ {
+      "name" : "Get Title",
+      "uid" : "57fb54b34970c44c",
+      "parentUid" : "a054a7d57c4ba706dddc2411d56b09ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616847528307,
+        "stop" : 1616847533220,
+        "duration" : 4913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Login to Application",
+      "uid" : "52fb549a24b4326b",
+      "parentUid" : "a054a7d57c4ba706dddc2411d56b09ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616847535097,
+        "stop" : 1616847535514,
+        "duration" : 417
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Logout of Dolphin",
+      "uid" : "ea8b4a9da25d7452",
+      "parentUid" : "a054a7d57c4ba706dddc2411d56b09ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616847535515,
+        "stop" : 1616847536680,
+        "duration" : 1165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a054a7d57c4ba706dddc2411d56b09ca"
+  }, {
+    "name" : "Handling Tabs and Popups",
+    "children" : [ {
+      "name" : "Handling Tabs and Popups",
+      "uid" : "f794d94d5ea22650",
+      "parentUid" : "fac6184868c3ec81073e06902e7a63e7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1616847536687,
+        "stop" : 1616847628174,
+        "duration" : 91487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fac6184868c3ec81073e06902e7a63e7"
+  } ]
+}

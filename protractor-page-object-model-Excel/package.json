@@ -1,0 +1,72 @@
+{
+  "_from": "protractor-page-object-model",
+  "_id": "protractor-page-object-model@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-2WiONtBhichPoI1VrbdKtQPNH1Bx6c0RtoSlaLdHDWav/JU81Cw41f1DjEV9JZ9Hf/3Af1RroONd0ZHgfTpH+g==",
+  "_location": "/protractor-page-object-model",
+  "_phantomChildren": {},
+  "_requested": {
+    
+	"type": "module",
+    "registry": true,
+    "raw": "protractor-page-object-model",
+    "name": "protractor-page-object-model",
+    "escapedName": "protractor-page-object-model",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/protractor-page-object-model/-/protractor-page-object-model-1.1.1.tgz",
+  "_shasum": "67717a7d097f9fe47ae6679c3569396bdb484d64",
+  "_spec": "protractor-page-object-model",
+  "_where": "C:\\POM",
+  "author": {
+    "name": "Padmaraj Nidagundi"
+  },
+  "bugs": {
+    "url": "https://github.com/padmarajnidagundi/Protractor-POM-Ready-To-Use/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Page Object Basic Model ( Ready To Use ) - UI Test Automation Design Pattern for protractortest.org",
+  "homepage": "https://github.com/padmarajnidagundi/Protractor-POM-Ready-To-Use#readme",
+  "keywords": [
+    "protractor",
+    "pom",
+    "testing",
+    "ui testing",
+    "page object model",
+    "design pattern",
+    "ui test automation",
+    "test automation",
+    "npm",
+    "framework",
+    "angular testing",
+    "node"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "protractor-page-object-model",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padmarajnidagundi/Protractor-POM-Ready-To-Use.git"
+  },
+  "scripts": {
+    "test": "protractor conf.js",
+    "pretest": "rmdir /s/q allure-results",
+    "posttest": "allure generate allure-results --clean -o allure-report || true"
+  },
+  "version": "1.1.1",
+  "dependencies": {
+    "jasmine-allure-reporter": "^1.0.2",
+    "jasmine-data-provider": "^2.2.0",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.13.8"
+  }
+}

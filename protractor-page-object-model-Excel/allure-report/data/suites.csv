@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Mar 27 17:18:48 PKT 2021","Sat Mar 27 17:18:53 PKT 2021","4913","","Login and Logout of Dolphin","","Login and Logout of Dolphin","Get Title","Get Title",""
+"passed","Sat Mar 27 17:18:55 PKT 2021","Sat Mar 27 17:18:55 PKT 2021","417","","Login and Logout of Dolphin","","Login and Logout of Dolphin","Login to Application","Login to Application",""
+"failed","Sat Mar 27 17:18:56 PKT 2021","Sat Mar 27 17:20:28 PKT 2021","91487","","Handling Tabs and Popups","","Handling Tabs and Popups","Handling Tabs and Popups","Handling Tabs and Popups",""
+"passed","Sat Mar 27 17:18:55 PKT 2021","Sat Mar 27 17:18:56 PKT 2021","1165","","Login and Logout of Dolphin","","Login and Logout of Dolphin","Logout of Dolphin","Logout of Dolphin",""
