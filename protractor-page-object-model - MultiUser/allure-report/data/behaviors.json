@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "HomePageTest 1 .1 - It should navigate to home page! check Tutorial page and go back to Home page",
+    "uid" : "349b7b5a6dda0e94",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1615714333875,
+      "stop" : 1615714345921,
+      "duration" : 12046
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

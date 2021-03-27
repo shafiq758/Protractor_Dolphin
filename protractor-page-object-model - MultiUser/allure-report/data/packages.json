@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Check the https://www.protractortest.org/ main page Home and Tutorial links",
+    "children" : [ {
+      "name" : "HomePageTest 1 .1 - It should navigate to home page! check Tutorial page and go back to Home page",
+      "uid" : "349b7b5a6dda0e94",
+      "parentUid" : "62e0cd94991f3de0055296a47d4c2762",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615714333875,
+        "stop" : 1615714345921,
+        "duration" : 12046
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Check the https://www.protractortest.org/ main page Home and Tutorial links"
+  } ]
+}

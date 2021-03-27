@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1616844852369' stop='1616844877410'>
+    <name>Login and Logout of Dolphin</name>
+    <title>Login and Logout of Dolphin</title>
+    <test-cases>
+        <test-case start='1616844852370' status='passed' stop='1616844861721'>
+            <name>Get Title</name>
+            <title>Get Title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='219b4492-73f0-4fc7-8ecd-a4fe560762eb-attachment.png' type='image/png' size='37276'/>
+            </attachments>
+        </test-case>
+        <test-case start='1616844861721' status='passed' stop='1616844865092'>
+            <name>Login to Application</name>
+            <title>Login to Application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='87679b5d-46a0-4849-95fb-1921ccc725a5-attachment.png' type='image/png' size='66263'/>
+            </attachments>
+        </test-case>
+        <test-case start='1616844865092' status='passed' stop='1616844869590'>
+            <name>Logout of Dolphin</name>
+            <title>Logout of Dolphin</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='28bfa8d9-8f1c-4a7c-bbc4-b5a9dcdb818f-attachment.png' type='image/png' size='37276'/>
+            </attachments>
+        </test-case>
+        <test-case start='1616844869590' status='passed' stop='1616844872922'>
+            <name>Login to Application</name>
+            <title>Login to Application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2e586134-32d6-4f51-9c5d-b8b568c5be02-attachment.png' type='image/png' size='66781'/>
+            </attachments>
+        </test-case>
+        <test-case start='1616844872922' status='passed' stop='1616844877409'>
+            <name>Logout of Dolphin</name>
+            <title>Logout of Dolphin</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='a5ff54e2-d560-40f4-916b-18fc3522ff3a-attachment.png' type='image/png' size='37276'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

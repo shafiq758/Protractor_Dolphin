@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 14 14:32:13 PKT 2021","Sun Mar 14 14:32:25 PKT 2021","12046","","Check the https://www.protractortest.org/ main page Home and Tutorial links","","Check the https://www.protractortest.org/ main page Home and Tutorial links","HomePageTest 1 .1 - It should navigate to home page! check Tutorial page and go back to Home page","HomePageTest 1 .1 - It should navigate to home page! check Tutorial page and go back to Home page",""

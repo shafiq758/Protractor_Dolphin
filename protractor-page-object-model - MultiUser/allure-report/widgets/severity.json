@@ -1,0 +1,11 @@
+[ {
+  "uid" : "349b7b5a6dda0e94",
+  "name" : "HomePageTest 1 .1 - It should navigate to home page! check Tutorial page and go back to Home page",
+  "time" : {
+    "start" : 1615714333875,
+    "stop" : 1615714345921,
+    "duration" : 12046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

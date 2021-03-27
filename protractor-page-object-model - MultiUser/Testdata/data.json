@@ -1,0 +1,22 @@
+{
+  "environment": "http://192.168.0.160:8080/dolphin/#/login",
+  
+  "locators": {
+  "loginpage": {
+  "username1": "//input[@placeholder='Username']",
+  "password1": "//input[@placeholder='Password']",
+  "login": "Login"
+  },
+  "userdetails":{
+  "username": "shoaib",
+  "password": "Test@12345",
+  "username2": "admin",
+  "password2": "Test@12345"
+  },
+  "Logout":{
+  "hamburger": "//div[2]/button/span/mat-icon",
+  "signout": "//*[text()=' Sign Out ']"
+  }
+  
+  }
+}
